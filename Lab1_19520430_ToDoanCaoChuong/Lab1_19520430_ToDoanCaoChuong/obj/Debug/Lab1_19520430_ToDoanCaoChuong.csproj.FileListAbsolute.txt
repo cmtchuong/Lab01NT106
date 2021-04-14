@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\bin\Debug\Lab1_19520430_ToDoanCaoChuong.exe.config
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\bin\Debug\Lab1_19520430_ToDoanCaoChuong.exe
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\bin\Debug\Lab1_19520430_ToDoanCaoChuong.pdb
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.exe
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.pdb
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Bai2.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Lab1.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Bai1.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Bai3.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Bai4.resources
+C:\Users\ASUS\source\repos\Lab1_19520430_ToDoanCaoChuong\Lab1_19520430_ToDoanCaoChuong\obj\Debug\Lab1_19520430_ToDoanCaoChuong.Bai5.resources
